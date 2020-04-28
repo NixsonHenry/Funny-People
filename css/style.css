@@ -1,0 +1,340 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(26, 59, 70);
+    position: absolute;
+} 
+
+
+.height-logo {
+    height: 70px;
+}
+
+.nav-color {
+    background-color: #494473;  
+}
+
+.all-placements {
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+
+.placement-1 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;    
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable-1 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 0;
+    transform: scale(.6);
+} 
+
+.placement-2 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;      
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable-2 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 70px;
+    transform: scale(.6);
+}
+
+.placement-3 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable-3 {
+    position: absolute;
+    width: 70px;
+    height: 120px;
+    left: 140px;
+    transform: scale(.6);
+}  
+
+.placement-4 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable-4 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 160px;
+    transform: scale(.6);
+}
+
+.placement-5 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable-5 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 200px;
+    transform: scale(.6);
+}
+
+.placement-6 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 130px;
+    left: 0px3
+}
+
+#draggable-6 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 245px;
+    transform: scale(.6);
+}
+
+.placement-7 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable-7 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 285px;
+    transform: scale(.6);
+}
+
+.placement-8 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable-8 {
+    position: absolute;
+    width: 80px;
+    height: 120px;
+    left: 355px;
+    transform: scale(.6);
+}
+
+.placement-9 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;       
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable-9 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 390px;
+    transform: scale(.6);
+}
+
+.placement1 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable1 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 445px;
+    transform: scale(.6);
+} 
+
+.placement2 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable2 {
+    position: absolute;
+    width: 90px;
+    height: 120px;
+    left: 510px;
+    transform: scale(.6);
+}
+
+.placement3 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable3 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 565px;
+    transform: scale(.6);
+}
+
+.placement4 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable4 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 640px;
+    transform: scale(.6);
+}
+
+.placement5 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable5 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 705px;
+    transform: scale(.6);
+}
+
+.placement6 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable6 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 770px;
+    transform: scale(.6);
+}
+
+.placement7 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable7 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 830px;
+    transform: scale(.6);
+}
+
+.placement8 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable8 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 880px;
+    transform: scale(.6);
+}
+
+.placement9 {
+    position: absolute;
+    border: 1px rgb(163, 153, 153, 0.2) solid;        
+    width: 120px!important;
+    height: 120px;
+    left: 0px;
+}
+
+#draggable9 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 940px;
+    transform: scale(.6);
+}
+
+
+.placement-- {
+    position: absolute;
+    border: 1px #ffffff solid;    
+    top: 100px;
+    width: 500px;
+    height: 590px;
+}
+
+.placement-images {
+    position: absolute;
+    border: 1px #ffffff solid;    
+    top: 100px;
+    height: 80px;
+}
+
+.marg {
+    top: -1.5em;
+}
+.pb {
+    padding-top: 120px;
+}
+
+.footer {
+    position: relative;
+    top: 6.5em;
+}
+
