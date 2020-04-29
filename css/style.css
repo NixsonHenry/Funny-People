@@ -7,7 +7,9 @@
     position: absolute;
 } 
 
-
+.title {
+    margin: 130px 0 40px 0;
+}
 .height-logo {
     height: 70px;
 }
@@ -314,7 +316,6 @@
 .placement-- {
     position: absolute;
     border: 1px #ffffff solid;    
-    top: 100px;
     width: 500px;
     height: 590px;
 }
@@ -322,7 +323,6 @@
 .placement-images {
     position: absolute;
     border: 1px #ffffff solid;    
-    top: 100px;
     height: 80px;
 }
 
@@ -333,8 +333,4 @@
     padding-top: 120px;
 }
 
-.footer {
-    position: relative;
-    top: 6.5em;
-}
 
